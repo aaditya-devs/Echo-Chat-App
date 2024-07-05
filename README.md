@@ -23,3 +23,12 @@ git clone https://github.com/yourusername/echo-chat-app.git
 cd echo-chat-app
 npm install
 npm start
+
+**Backend**
+controllers: Contains the logic for handling requests and responses. Each file typically corresponds to a different part of the application (e.g., user, product).
+db: Contains the database configuration and connection files.
+middleware: Contains custom middleware functions used throughout the application.
+models: Contains the Mongoose models defining the schemas for MongoDB collections.
+routes: Contains the route definitions and mappings to the controllers.
+utils: Contains utility functions and helper methods used across the backend.
+server.js: The main entry point for the backend server, where the Express app is configured and started.
