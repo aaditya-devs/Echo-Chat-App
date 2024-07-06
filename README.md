@@ -8,7 +8,7 @@ Echo is a cutting-edge real-time chat application developed to facilitate seamle
 - **Real-Time Messaging:** Instant communication powered by **Socket.IO** for efficient message broadcasting.
 - **Secure User Authentication:** JWT and middleware for robust and secure user authentication.
 - **Scalability:** Horizontal scaling to accommodate a growing user base and ensure a smooth chat experience.
-- **Responsive Design:** **Tailwind CSS** for a** sleek, modern, and responsive **user interface.
+- **Responsive Design:** **Tailwind CSS** for a** **sleek, modern, and responsive** **user interface.
 
 ## Key Technologies
 - **MERN Stack:** MongoDB, Express.js, React, Node.js for a comprehensive, full-stack development approach.
