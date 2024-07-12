@@ -20,9 +20,9 @@ Clone the repository and follow the setup instructions to run Echo on your local
 
 ```bash
 git clone https://github.com/yourusername/echo-chat-app.git
-cd echo-chat-app
+**cd echo-chat-app
 npm install
-npm start
+npm start**
 
 **Backend**
 controllers: Contains the logic for handling requests and responses. Each file typically corresponds to a different part of the application (e.g., user, product).
