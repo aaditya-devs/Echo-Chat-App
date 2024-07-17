@@ -6,7 +6,7 @@ Echo is a cutting-edge real-time chat **application** developed to facilitate se
 
 ## Features**
 - **Real-Time Messaging:** Instant **communication** powered by **Socket.IO** for efficient message broadcasting.
-- **Secure User Authentication:** JWT and middleware for robust and secure user authentication****.
+- **Secure User Authentication:** JWT and middleware for robust and **secure** user authentication****.
 - **Scalability:** Horizontal scaling to accommodate a growing user base and ensure a smooth chat experience.
 - **Responsive Design:** **Tailwind CSS** for a** **sleek, modern, and responsive** **user interface.
 
