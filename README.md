@@ -11,7 +11,7 @@ Echo is a cutting-edge real-time chat **application** developed to facilitate se
 - **Responsive Design:** **Tailwind CSS** for a** **sleek, modern, and responsive** **user interface.
 
 ## Key Technologies
-- **MERN Stack:** MongoDB, Express.js, React, Node.js for a comprehensive, full-stack development approach.
+- **MERN Stack:** MongoDB, Express.js, React, Node.js for a comprehensive, full-stack **development** approach.
 - **Socket.IO:** Real-time bidirectional event-bas**ed commu**nication for instant messaging.
 - **Tailwind CSS:** Utility-first CSS framework for building custom user interfaces rapidly.**
 
